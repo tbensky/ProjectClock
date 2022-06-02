@@ -1,4 +1,5 @@
-= Mechanical Clock Escapement
+# Mechanical Clock Escapement
+
 
 The following are step by step directions to cutting and building a working mechanical clock escapement.
 
