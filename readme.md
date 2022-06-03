@@ -24,7 +24,7 @@ The escapement can be constructed using the parts shown here.
 
 6. 4 fidget spinner bearings.  Outer diameter is 22 mm, inner diameter (of hole) is 8 mm, and thickness is 7 mm. These are very common bearings and sizes.
 
-7. Two 7/16" dia. wooden dowels cut to 4" long.
+7. Two 5/16" dia. (7.9 mm) wooden dowels cut to 4" long. The dowels should be able to slide into the (8 mm) holes on the bearings.
 
 8.  3D printed escape wheel and anchor (see below).
 
@@ -37,7 +37,7 @@ The escapement can be constructed using the parts shown here.
 
 ## Frame
 
-To start, you'll have to CNC four parts out of wood.  We used wood planks that are about 0.8" thick, commonly used for shelving from our local hardware store. They come in 12' or 8' long planks, that are 12", 8" or 6" wide. Again, the thickness is about 0.8".  We've also used MDF and smoother cuts. The wood has to hold the bearings, which are 7 mm (0.25") deep, so the wood has to be at least this thick.
+To start, you'll have to CNC four parts out of wood.  We used wood planks that are about 0.8" thick, commonly used for shelving from our local hardware store. They come in 12' or 8' long planks, that are 12", 8" or 6" wide. Again, the thickness is about 0.8".  We've also used MDF and smoother cuts of wood (the shelving planks can be pretty rough, but still work). The wood has to hold the bearings, which are 7 mm (0.25") deep, so the wood has to be at least this thick.
 
 The CAD (.DWG file) is in the CAD folder, and looks like this
 
@@ -90,5 +90,36 @@ This piece is not critical, but allows for the escapement to be clamped over the
 We cut a 7"x3" by 1/4" thick piece of scrap and drilled a hole that can accommodate the #10 screw. The hole should be positioned so the thru hole in the wooden base of the escapement can be held at the end of the support by the screw. In use, it'll look like this
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/support_clamp.jpg)
+
+# Pendulum
+
+The pendulum is a yard stick from the hardware store (used for stirring paint). The work well, because they'll give your escapement a period of about 1 second, and tend to stay straight.
+
+To start, on one end drill a 5/16" hole about 1" from the end. Use a hand saw to cut a slot from the end of the pendulum to the hole itself, then sand the inner edges of the slot a bit
+to give it some width, as shown here
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_end.jpg)
+
+Next, drill a hole suitable for a #4 screw tranverse to the slot, like this
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/screw_hole.jpg)
+
+(These steps might be reversed for better results; that is, drill the #4 transverse hole first.)
+
+Next, insert the 2" long #4 screw with its wing nut.
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_screw.jpg)
+
+This will clamp the pendulum onto the anchor's dowel/axle.
+
+On the other end of the pendulum, drill a hole so you can mount a small weight onto the end of the pedulum. This is not critical. Ours looks like this
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/swing_end.jpg)
+
+and
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/screw_weight.jpg)
+
+
 
 
