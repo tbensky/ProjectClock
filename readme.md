@@ -93,9 +93,9 @@ We cut a 7"x3" by 1/4" thick piece of scrap and drilled a hole that can accommod
 
 # Pendulum
 
-The pendulum is a yard stick from the hardware store (used for stirring paint). The work well, because they'll give your escapement a period of about 1 second, and tend to stay straight.
+The pendulum is a yard stick from the hardware store (used for stirring paint). They work well, because they'll give your escapement a period of about 1 second, and tend to stay straight.
 
-To start, on one end drill a 5/16" hole about 1" from the end. Use a hand saw to cut a slot from the end of the pendulum to the hole itself, then sand the inner edges of the slot a bit
+To start, on one end, drill a 5/16" hole about 1" from the end. Use a hand saw to cut a slot from the end of the pendulum to the hole itself, then sand the inner edges of the slot a bit
 to give it some width, as shown here
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_end.jpg)
@@ -110,9 +110,9 @@ Next, insert the 2" long #4 screw with its wing nut.
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_screw.jpg)
 
-This will clamp the pendulum onto the anchor's dowel/axle.
+This will allow you to clamp the pendulum onto the anchor's dowel/axle.
 
-On the other end of the pendulum, drill a hole so you can mount a small weight onto the end of the pedulum. This is not critical. Ours looks like this
+On the other end of the pendulum, drill a hole so you can mount a small weight onto the end of the pedulum. This is not critical (do whatever is needed). Ours looks like this
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/swing_end.jpg)
 
