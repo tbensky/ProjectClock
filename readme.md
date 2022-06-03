@@ -4,6 +4,8 @@ The following are step by step directions to cutting and building a working, gra
 
 ![Clock Escapement](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape.gif)
 
+([See on Youtube)[https://youtube.com/shorts/22PK3F16n6g]) 
+
 ## Parts
 
 The escapement can be constructed using the parts shown here.
