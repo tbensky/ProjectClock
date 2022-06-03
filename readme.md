@@ -160,7 +160,7 @@ You can now mount the assembly on the support board, fastening it with the #10 s
 
 Put the nuts onto the #6 screws, to tighten the base to the sides of the escapement.
 
-# Pendulum and drive weight
+# Installing the pendulum and drive weight
 
 
 
