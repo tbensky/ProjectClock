@@ -23,7 +23,7 @@ the bearings snugly with just friction. Everything else can be done with a 1/4" 
 
 Our CNC simulation looks like this
 
-![CNC simulation](https://github.com/tbensky/ProjectClock/blob/main/Pics/cnc_sim.png)
+![CNC simulation](https://github.com/tbensky/ProjectClock/blob/main/Pics/cnc_sim.jpg)
 
 We used a Shapeoko CNC from Carbide3D.
 
