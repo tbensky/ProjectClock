@@ -143,7 +143,7 @@ Now, push the bearings into the holes on the frame. The bearings should fit snug
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_bearings.jpg)
 
-Now, juggling everything, work to assembly the escapement like this.
+Now, juggling everything, work to assemble the escapement like this.
 
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/final01.jpg)
@@ -155,6 +155,10 @@ You can now mount the assembly on the support board, fastening it with the #10 s
 
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/final02.jpg)
+
+Put the nuts onto the #6 screws, to tighten the base to the sides of the escapement.
+
+# Pendulum and drive weight
 
 
 
