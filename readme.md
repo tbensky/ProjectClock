@@ -55,6 +55,12 @@ Our CNC simulation looks like this
 
 We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5"x0.8" plank. Set the origin to the upper-left and clamps along the long edges of the board.  
 
+### No CNC?
+
+It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" aparts center-to-center.  The bearings are 22 mm in diameter.  Holes to hold them
+can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
+
+
 ### Frame assembly
 
 Once the frame pieces are ready, clamp them together like this
@@ -82,6 +88,12 @@ We 3d printed these with PLA, but they can be CNCed as well (see .dwg file in th
 Here's our 3D printed result.
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/3descapeanchor.jpg)
+
+
+### No CNC or 3D printer?
+
+If you trace the pattern onto a 1/4" wooden plank, you can try to cut out the escape wheel and anchor with a scrollsaw, but it is difficult. (You'll get the parts, but the escapement may not work.)  Mounting holes for each can be made with a 7/16" drill bit. 
+
 
 ### Mounting the escape wheel and anchor
 
