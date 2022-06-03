@@ -58,6 +58,6 @@ We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5
 
 These look like this
 
-![escape_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape_anchor.png)
+![escape_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape_and_anchor.png)
 
 We 3d printed these with PLA, but they can be CNCed as well (see .dwg file in the Cad folder).  STL files for them are in the STL folder. If CNCed, they should be cut on 1/4" thick wood.
