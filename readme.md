@@ -145,7 +145,7 @@ able to push them into the frame fairly easily with just your fingers (no hammer
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_bearings.jpg)
 
-Now, juggling everything, work to assemble the escapement like this.
+Now, juggling everything, work to assemble your parts like this.
 
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/final01.jpg)
