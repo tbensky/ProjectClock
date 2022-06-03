@@ -95,6 +95,7 @@ Important: Do not center the escape wheel or anchor on each's dowel. Place each 
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/mount_escape.jpg)
 
+Near the tip of the long end of the dowel holding the escape wheel, drill a small radial hole through the dowel that you can thread a string through. (This will help later when attaching the drive weight.)
 
 ## Support
 
