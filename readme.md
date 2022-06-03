@@ -140,7 +140,8 @@ A small stack of washers has also worked for this.
 
 # Assembly
 
-Now, push the bearings into the holes on the frame. The bearings should fit snugly, but not too tight. If the bearings are pushed on too much by the wood, they won't turn freely.
+Now, push the bearings into the holes on the frame. The bearings should fit snugly, but not too tight. If the bearings are pushed on too much by the wood, they won't turn freely. You should be
+able to push them into the frame fairly easily with just your fingers (no hammers or forcing/pounding).
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_bearings.jpg)
 
