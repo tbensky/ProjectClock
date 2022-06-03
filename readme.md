@@ -22,7 +22,7 @@ The escapement can be constructed using the parts shown here.
 
 5. 4, 2" long #6 screws with washers and nuts.
 
-6. 4 fidget spinner bearings.  Outer diameter is 22 mm, inner diameter (of hole) is 8 mm, and thickness is 7 mm. These are very common bearings and sizes.
+6. 4 fidget spinner bearings.  Outer diameter is 22 mm, inner diameter (of hole) is 8 mm, and thickness is 7 mm. These are very common bearings and sizes. (See Amazon and eBay.)
 
 7. Two 5/16" dia. (7.9 mm) wooden dowels cut to 4" long. The dowels should be able to slide into the (8 mm) holes on the bearings.
 
