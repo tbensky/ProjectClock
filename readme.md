@@ -65,7 +65,7 @@ and be sure everything is squared up.  The pocket cuts can face either inward or
 
 When secure, drill up through the four holes in the base, from the bottom of the base, up into both of the sides, like this
 
-![frame clamp](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_drilljpg)
+![frame clamp](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_drill.jpg)
 
 Each hole should be able to accommodate the 4 #6 screws. The screws are meant to hold the sides to the base. The top isn't really used or important.  You can attach it to the escapement as a final step if you wish.
 
