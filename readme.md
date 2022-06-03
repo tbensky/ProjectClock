@@ -141,7 +141,7 @@ A small stack of washers has also worked for this.
 
 Now, push the bearings into the holes on the frame. The bearings should fit snugly, but not too tight. If the bearings are pushed on too much by the wood, they won't turn freely.
 
-![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/frame_bearings.jpg)
+![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_bearings.jpg)
 
 
 
