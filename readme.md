@@ -7,7 +7,10 @@ The following are step by step directions to cutting and building a working mech
 
 # Frame, escape wheel, and anchor
 
-To start, you'll have to CNC four parts out of wood.  We used wood planks that is about 0.6" thick, that is used for shelving. It comes in 12' or 8' long planks by 12" or 8".
+To start, you'll have to CNC four parts out of wood.  We used wood planks that is about 0.6" thick, that is used for shelving. It comes in 12' or 8' long planks by 12" or 8". The
+CAD (.DWG file) is in the CAD folder, and looks like this
+
+![CAD file](https://github.com/tbensky/ProjectClock/blob/main/Pics/cad_parts.png)
 
 Pockets cuts to 0.2730" (7mm) depth.
 
