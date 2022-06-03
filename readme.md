@@ -91,7 +91,7 @@ We cut a 7"x3" by 1/4" thick piece of scrap and drilled a hole that can accommod
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/support_clamp.jpg)
 
-# Pendulum
+## Pendulum
 
 The pendulum is a yard stick from the hardware store (used for stirring paint). They work well, because they'll give your escapement a period of about 1 second, and tend to stay straight.
 
@@ -100,7 +100,7 @@ to give it some width, as shown here
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_end.jpg)
 
-Next, drill a hole suitable for a #4 screw tranverse to the slot, like this
+Next, drill a hole suitable for a #4 screw transverse to the slot, like this
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/screw_hole.jpg)
 
@@ -119,6 +119,10 @@ On the other end of the pendulum, drill a hole so you can mount a small weight o
 and
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/screw_weight.jpg)
+
+A small stack of washers has also worked for this.
+
+
 
 
 
