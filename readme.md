@@ -1,5 +1,7 @@
 # Mechanical Clock Escapement
 
+# Frame, escape wheel, and anchor
+
 
 The following are step by step directions to cutting and building a working mechanical clock escapement.
 
