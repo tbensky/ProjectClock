@@ -11,8 +11,7 @@ The escapement can be constructed using the parts shown here.
 
 # Frame, escape wheel, and anchor
 
-To start, you'll have to CNC four parts out of wood.  We used wood planks that is about 0.6" thick, that is used for shelving. It comes in 12' or 8' long planks by 12" or 8". The
-CAD (.DWG file) is in the CAD folder, and looks like this
+To start, you'll have to CNC four parts out of wood.  We used wood planks that are about 0.8" thick, commonly used for shelving from our local hardware store. They come in 12' or 8' long planks, that are 12" or 8" wide. Again, the thickness is about 0.8".   The CAD (.DWG file) is in the CAD folder, and looks like this
 
 ![CAD file](https://github.com/tbensky/ProjectClock/blob/main/Pics/cad_parts.png)
 
