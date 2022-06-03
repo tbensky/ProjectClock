@@ -57,7 +57,7 @@ We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5
 
 ### No CNC?
 
-It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" aparts center-to-center.  The bearings are 22 mm in diameter.  Holes to hold them
+It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" apart center-to-center.  The bearings are 22 mm in diameter; holes to hold them
 can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
 
 
@@ -92,7 +92,7 @@ Here's our 3D printed result.
 
 ### No CNC or 3D printer?
 
-If you trace the pattern onto a 1/4" wooden plank, you can try to cut out the escape wheel and anchor with a scrollsaw, but it is difficult. (You'll get the parts, but the escapement may not work.)  Mounting holes for each can be made with a 7/16" drill bit. 
+If you trace the pattern onto a 1/4" wooden plank, you can try to cut out the escape wheel and anchor with a scroll saw, but it is difficult to get working parts. Escapements are finicky and the 3D printed parts here are good to 0.1 mm or so. With a scroll saw, you'll get the parts, but the escapement may not work.  Mounting holes for each can be made with a 7/16" drill bit. 
 
 
 ### Mounting the escape wheel and anchor
