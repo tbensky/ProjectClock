@@ -87,7 +87,7 @@ Here's our 3D printed result.
 
 The escape wheel and anchor are to be mounted onto the 7/16" x 4" wooden dowels.  As you can tell, the wheel and anchor are keyed, so you'll have to sand down a flat section on the dowels to allow it to fit into the holes on either.  Sand carefully, as this should be a very snug fit. We used Gorilla Glue 2-part epoxy to fasten the two.
 
-Important: Do not center the escape wheel or anchor on each's dowel. Place each about 2.5" from either end as shown here.
+Important: Do not center the escape wheel or anchor on each's dowel. Place each about 2.5" from either end as shown here. The asymmetry is so you can have the pendulum swing on one side of the escapement, and the weight fall on the other.
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/mount_anchor01.jpg)
 
@@ -143,8 +143,18 @@ Now, push the bearings into the holes on the frame. The bearings should fit snug
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_bearings.jpg)
 
+Now, juggling everything, work to assembly the escapement like this.
 
 
+![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/final01.jpg)
+
+The anchor and escape wheel should overlap, and be sure the longer end of the anchor goes out one side, and the longer end of the escape wheel goes out the other.
+
+You can now mount the assembly on the support board, fastening it with the #10 screw and wing nut.  Clamp it to a table so the escapement is over the edge like this.
+
+
+
+![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/final02.jpg)
 
 
 
