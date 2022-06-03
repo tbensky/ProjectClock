@@ -87,6 +87,8 @@ This piece is not critical, but allows for the escapement to be clamped over the
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/support.jpg)
 
-We cut a 7"x3" by 1/4" thick piece of scrap and drilled a hole that can accommodate the #10 screw. The hole should be positioned so the thru hole in the wooden base of the escapement can be held at the end of the support by the screw.
+We cut a 7"x3" by 1/4" thick piece of scrap and drilled a hole that can accommodate the #10 screw. The hole should be positioned so the thru hole in the wooden base of the escapement can be held at the end of the support by the screw. In use, it'll look like this
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/support_clamp.jpg)
 
 
