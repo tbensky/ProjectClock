@@ -85,7 +85,7 @@ Here's our 3D printed result.
 
 ### Mounting the escape wheel and anchor
 
-The escape wheel and anchor are to be mounted onto the 7/16" x 4" wooden dowels.  As you can tell, the wheel and anchor are keyed, so you'll have to sand down a flat section on the dowels to allow it to fit into the holes on either.  Sand carefully, as this should be a very snug fit. We used Gorilla Glue 2-part epoxy to fasten the two.
+The escape wheel and anchor are to be mounted onto the 7/16" x 4" wooden dowels.  As you can tell, the wheel and anchor are keyed, so you'll have to sand down a flat section on the dowels to allow them to fit into the holes on either.  Sand carefully, as this should be a very snug fit. We used Gorilla Glue 2-part epoxy to fasten the two.
 
 Important: Do not center the escape wheel or anchor on each's dowel. Place each about 2.5" from either end as shown here. The asymmetry is so you can have the pendulum swing on one side of the escapement, and the weight fall on the other.
 
