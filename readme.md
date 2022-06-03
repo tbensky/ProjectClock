@@ -98,27 +98,27 @@ The pendulum is a yard stick from the hardware store (used for stirring paint). 
 To start, on one end, drill a 5/16" hole about 1" from the end. Use a hand saw to cut a slot from the end of the pendulum to the hole itself, then sand the inner edges of the slot a bit
 to give it some width, as shown here
 
-![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_end.jpg)
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/clamp_end.jpg)
 
 Next, drill a hole suitable for a #4 screw transverse to the slot, like this
 
-![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/screw_hole.jpg)
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/screw_hole.jpg)
 
 (These steps might be reversed for better results; that is, drill the #4 transverse hole first.)
 
 Next, insert the 2" long #4 screw with its wing nut.
 
-![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_screw.jpg)
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/clamp_screw.jpg)
 
 This will allow you to clamp the pendulum onto the anchor's dowel/axle.
 
 On the other end of the pendulum, drill a hole so you can mount a small weight onto the end of the pedulum. This is not critical (do whatever is needed). Ours looks like this
 
-![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/swing_end.jpg)
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/swing_end.jpg)
 
 and
 
-![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/screw_weight.jpg)
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/screw_weight.jpg)
 
 A small stack of washers has also worked for this.
 
