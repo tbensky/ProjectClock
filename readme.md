@@ -4,7 +4,7 @@ The following are step by step directions to cutting and building a working, gra
 
 ![Clock Escapement](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape.gif)
 
-([See on Youtube)[https://youtube.com/shorts/22PK3F16n6g]) 
+([See on Youtube](https://youtube.com/shorts/22PK3F16n6g]) 
 
 ## Parts
 
@@ -62,4 +62,21 @@ These look like this
 
 ![escape_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape_and_anchor.png)
 
-We 3d printed these with PLA, but they can be CNCed as well (see .dwg file in the Cad folder).  STL files for them are in the STL folder. If CNCed, they should be cut on 1/4" thick wood.
+We 3d printed these with PLA, but they can be CNCed as well (see .dwg file in the Cad folder).  STL files for them are in the STL folder. If CNCed, they should be cut on 1/4" thick wood with a 1/8" endmill.
+
+Here's our 3D printed result.
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/3descapeanchor.jpg)
+
+### Mounting the escape wheel and anchor
+
+The escape wheel and anchor are to be mounted onto the 7/16" x 4" wooden dowels.  As you can tell, the wheel and anchor are keyed, so you'll have to sand down a flat section on the dowels to allow it to fit into the holes on either.  Sand carefully, as this should be a very snug fit. We used Gorilla Glue 2-part epoxy to fasten the two.
+
+Important: Do not center the escape wheel or anchor on each's dowel. Place each about 2.5" from either end as shown here.
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/mount_anchor01.jpg)
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/mount_anchor02.jpg)
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/mount_escape.jpg)
+
