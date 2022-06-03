@@ -150,7 +150,7 @@ Now, juggling everything, work to assemble your parts like this.
 
 ![bearings in frame](https://github.com/tbensky/ProjectClock/blob/main/Pics/final01.jpg)
 
-The anchor and escape wheel should overlap, and be sure the longer end of the anchor goes out one side, and the longer end of the escape wheel goes out the other.
+The anchor and escape wheel should overlap horizontally.  Also, be sure the longer end of the anchor goes out one side, and the longer end of the escape wheel goes out the other.
 
 You can now mount the assembly on the support board, fastening it with the #10 screw and wing nut.  Clamp it to a table so the escapement is over the edge like this.
 
