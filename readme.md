@@ -12,7 +12,7 @@ The escapement can be constructed using the parts shown here.
 
 1. Some string used for the drive weight.
 
-2. Some weight to drive the escapement. This escapement can run on about 200 g (0.5 lbs) of weight. Shown is a piece of brass, but anything can be used, as long as it's the weight given.
+2. Some weight to drive the escapement. This escapement can run on about 200 g (0.5 lbs) of weight. Shown is a piece of brass, but anything can be used, as long as it's about 200 g (0.5 lbs) or so.
 
 3.  Wooden parts (see Frame section below).
 
@@ -35,7 +35,9 @@ The escapement can be constructed using the parts shown here.
 
 ## Frame
 
-To start, you'll have to CNC four parts out of wood.  We used wood planks that are about 0.8" thick, commonly used for shelving from our local hardware store. They come in 12' or 8' long planks, that are 12" or 8" wide. Again, the thickness is about 0.8".   The CAD (.DWG file) is in the CAD folder, and looks like this
+To start, you'll have to CNC four parts out of wood.  We used wood planks that are about 0.8" thick, commonly used for shelving from our local hardware store. They come in 12' or 8' long planks, that are 12", 8" or 6" wide. Again, the thickness is about 0.8".  We've also used MDF and smoother cuts. The wood has to hold the bearings, which are 7 mm (0.25") deep, so the wood has to be at least this thick.
+
+The CAD (.DWG file) is in the CAD folder, and looks like this
 
 ![CAD file](https://github.com/tbensky/ProjectClock/blob/main/Pics/cad_parts.png)
 
@@ -53,3 +55,9 @@ We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5
 
 
 ##  Escape wheel, and anchor
+
+These look like this
+
+![escape_anchor(https://github.com/tbensky/ProjectClock/blob/main/Pics/escape_anchor.png)
+
+We just 3d printed these, but they can be CNCed as well (see .dwg file in the Cad folder).  STL files for them are in the STL folder.
