@@ -4,7 +4,7 @@ The following are step by step directions to cutting and building a working, gra
 
 ![Clock Escapement](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape.gif)
 
-([See on Youtube](https://youtube.com/shorts/22PK3F16n6g]) 
+([See on Youtube](https://youtube.com/shorts/22PK3F16n6g]))
 
 ## Parts
 
@@ -56,7 +56,7 @@ Our CNC simulation looks like this
 We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5"x0.8" plank. Set the origin to the upper-left and clamps along the long edges of the board.  
 
 
-##  Escape wheel, and anchor
+##  Escape wheel and anchor
 
 These look like this
 
@@ -79,4 +79,14 @@ Important: Do not center the escape wheel or anchor on each's dowel. Place each 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/mount_anchor02.jpg)
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/mount_escape.jpg)
+
+
+## Support
+
+This piece is not critical, but allows for the escapement to be clamped over the end of a table while you're working on it.  
+
+![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/support.jpg)
+
+We cut a 7"x3" by 1/4" thick piece of scrap and drilled a hole that can accommodate the #10 screw. The hole should be positioned so the thru hole in the wooden base of the escapement can be held at the end of the support by the screw.
+
 
