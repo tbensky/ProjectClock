@@ -55,6 +55,21 @@ Our CNC simulation looks like this
 
 We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5"x0.8" plank. Set the origin to the upper-left and clamps along the long edges of the board.  
 
+### Frame assembly
+
+Once the frame pieces are ready, clamp them together like this
+
+![frame clamp](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_frame.jpg)
+
+and be sure everything is squared up.  The pocket cuts can face either inward or outward.
+
+When secure, drill up through the four holes in the base, from the bottom of the base, up into both of the sides, like this
+
+![frame clamp](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_drilljpg)
+
+Each hole should be able to accommodate the 4 #6 screws. The screws are meant to hold the sides to the base. The top isn't really used or important.  You can attach it to the escapement as a final step if you wish.
+
+
 
 ##  Escape wheel and anchor
 
@@ -121,6 +136,8 @@ and
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/screw_weight.jpg)
 
 A small stack of washers has also worked for this.
+
+
 
 
 
