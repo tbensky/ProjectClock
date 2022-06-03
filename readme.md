@@ -6,7 +6,7 @@ The following are step by step directions to cutting and building a working, gra
 
 The escapement can be constructed using the parts shown here.
 
-![Parts](https://github.com/tbensky/ProjectClock/blob/main/Pics/allparts.jpeg)
+![Parts](https://github.com/tbensky/ProjectClock/blob/main/Pics/allparts.jpg)
 
 
 # Frame, escape wheel, and anchor
