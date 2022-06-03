@@ -19,12 +19,13 @@ Parts 1 and 2 are the sides of the escapement frame. Part 3 is the base of the f
 circles with the blue arrows are to be cut through.  The smaller (outer) circles on Parts 3 and 4 are countersinks for #6 screw heads and are cut 0.1" deep. The inner circles on Parts 3 and 4 are to be cut through.
 
 We get good results using two tools.  All pockets cuts on Parts 1 and 2, and the countersinks and through-holes on Paers 3 and 4 are first cut with a 1/8" end mill. Some precision is needed on the pocket cuts to hold
-the bearings snugly with just friction. Everything else can be done with a 1/4" end mill. Use tabs on all parts.
+the bearings snugly with just friction. Everything else can be done with a 1/4" end mill. Use tabs on all parts. 
 
 Our CNC simulation looks like this
 
 ![CNC simulation](https://github.com/tbensky/ProjectClock/blob/main/Pics/cnc_sim.jpg)
 
-We used a Shapeoko CNC from Carbide3D.
+We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5"x0.8" plank. Set the origin to the upper-left and clamps along the long edges of the board.  
+
 
 ##  Escape wheel, and anchor
