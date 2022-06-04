@@ -260,6 +260,9 @@ In sum, you'll want to adjust the angle between the pendulum and the apex point 
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Pics/adjust_anchor.jpg)
 
+Mostly, we find if the apex point is straight up when the pendulum is vertical, then that should do it. However, the overall goal is to watch the escapement as it tries run, reviewing the "escapement tutorial" above.  Watch carefully the drop and release of the anchor's pallets into the escapement wheel's teeth. The drop should be minimal for a given pallet, and the anchor's motion should be as symmetrical as possible.
+
+
 
 
 
