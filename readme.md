@@ -172,6 +172,27 @@ You can now mount the assembly on the support board, fastening it with the #10 s
 
 Put the nuts onto the #6 screws, to tighten the base to the sides of the escapement.
 
+# Quick escapement tutorial
+
+You're about ready to install the pendulum and drive weight and get your escapement running. Before that, let's take a quick look at how escapements are suppose to work.
+
+First, the anchor and escape wheel need to be able to come into contact with one another. Further, the amount of contact they have and when they contact are somewhat critical.
+Remember as you look through these figures that the escape wheel will always be pulled clockwise due to the drive weight, and the anchor will always oscillate back and forth.
+
+Here they are in close proximity.
+
+![esccapement](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape01.jpg)
+
+Too far apart for any working escapement, or the escapement would have to be adjusted for a very large pendulum swing angle to get the anchor's pallets to engage with the escape wheel.
+
+Let's lower the anchor some like this
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape02.jpg)
+
+
+
+
+
 # Installing the pendulum and drive weight
 
 
