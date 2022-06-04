@@ -176,8 +176,10 @@ Put the nuts onto the #6 screws, to tighten the base to the sides of the escapem
 
 You're about ready to install the pendulum and drive weight and get your escapement running. Before that, let's take a quick look at how escapements are suppose to work.
 
-First, the anchor and escape wheel need to be able to come into contact with one another. Further, the amount of contact they have and when they contact are somewhat critical.
-Remember as you look through these figures that the escape wheel will always be pulled clockwise due to the drive weight, and the anchor will always oscillate back and forth.
+First, the anchor and escape wheel need to be able to come into contact with one another. Further, the amount of contact they have and when they contact are somewhat critical. The shape
+of both the anchor and escape wheel are important as well.
+
+(Remember as you look through these figures that the escape wheel will always be pulled clockwise due to the drive weight, and the anchor will always oscillate back and forth.)
 
 Here they are in close proximity.
 
