@@ -208,6 +208,18 @@ Here there is no contact and the escape wheel is free to spin. It keeps going un
 
 This will stop the escape wheel again and make the "tock" sound.
 
+It is difficult designing an escapement.  It is not enough to simply periodically stop the escape wheel. The releases (after the contact) have to be shaped so that the
+pendulum will be given a knudge with each contact, to keep it swining (or else the escapement will stop).
+
+
+Here, by trial and error, with adjusting surfaces to $\approx 1$ mm, you can see how the escape wheel tooth slides off of the anchor, in a way that gives a little kick
+to the pendulum.
+
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape06.jpg)
+
+
+
 
 # Installing the pendulum and drive weight
 
