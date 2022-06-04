@@ -275,7 +275,11 @@ In sum, you'll want to adjust the angle between the pendulum and the apex point 
 
 
 
+# More information
 
+* If you build this escapement, send a pull request in this document, with a link to a Youtube video of your escapement. We'd love to see it and share it!
+
+* The author got interested in making clocks in the context of the history of navigational technology.  He's written all about time and clocks in Part II of [this book]().
 
 
 
