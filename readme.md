@@ -73,7 +73,7 @@ When secure, drill up through the four holes in the base, from the bottom of the
 
 ![frame clamp](https://github.com/tbensky/ProjectClock/blob/main/Pics/frame_drill.jpg)
 
-Each hole should be able to accommodate one of the 4 #6 screws. We used a 5/16" drill bit. The screws are meant to hold the sides to the base and should sink nicely into the CNCed countersinks. The top isn't really used or important.  You can attach it to the escapement as a final step if you wish.
+Each hole should be able to accommodate one of the 4 #6 screws. We used a 5/32" drill bit. The screws are meant to hold the sides to the base and should sink nicely into the CNCed countersinks. The top isn't really used or important.  You can attach it to the escapement as a final step if you wish.
 
 
 
@@ -83,7 +83,7 @@ The escape wheel (with 24 teeth) and the anchor look like this (on the way to a 
 
 ![escape_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape_and_anchor.png)
 
-We 3d printed these with PLA, but they can be CNCed as well (see .dwg file in the Cad folder.   STL files for them are in the STL folder. If CNCed, they should be cut on 1/4" thick wood with a 1/8" endmill. (We've CNCed them out of wood and acrylic with good results.)
+We 3d printed these with PLA (STL files for them are in the STL folder), but they can be CNCed as well (see .dwg file in the Cad folder).   If CNCed, they should be cut on 1/4" thick wood (or acrylic) with a 1/8" endmill.
 
 Here's our 3D printed result.
 
