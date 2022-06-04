@@ -196,15 +196,17 @@ Now, imagine the anchor oscillatings as driven by the pendulum, like this
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape03.jpg)
 
-See the contact? This stops the escape wheel from spinning.
+See the contact? This stops the escape wheel from spinning. The sound of the contact will be a "tick" for the clock.
 
 Then back again.
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape04.jpg)
 
-Here there is no contact and the escape wheel is free to spin.
+Here there is no contact and the escape wheel is free to spin. It keeps going until contact is made again like this:
 
+![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape05.jpg)
 
+This will stop the escape wheel again and make the "tock" sound.
 
 
 # Installing the pendulum and drive weight
