@@ -215,20 +215,16 @@ Here there is no contact and the escape wheel is free to spin. It keeps going un
 This will stop the escape wheel again and make the "tock" sound.
 
 It is difficult designing an escapement.  It is not enough to simply periodically stop the escape wheel. The releases (after the contact) have to be shaped so that the
-pendulum will be given a knudge with each contact, to keep it swining (or else the escapement will stop).
-
+pendulum will be given a knudge by the escape wheel with each release. This keeps the pendulum swining.
 
 Here, by trial and error, with adjusting surfaces to $\approx 1$ mm, you can see how the escape wheel tooth slides off of the anchor, in a way that gives a little kick
 to the pendulum.
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape06.jpg)
 
-When the left pallet of the anchor hits the escape wheel, it's a dead stop, with very little energy transfer back to the pendulum.  The right pallet however, after it stops the crown wheel, allows the tooth to slide off of it, along its contours to impart some energy into the pendulum. There are infinite variations of this, and it's quite interesting to study. The escapement here was developed by simply watching non-working anchors for places where it appears to be jamming up, stopping the escapement. When found, some CAD work was done to reshape the anchor's surface to remove such jam points.
+When the left pallet of the anchor hits the escape wheel, it's a dead stop, with very little energy transfer back to the pendulum.  The right pallet however, after it stops the crown wheel, allows the tooth to slide off of it, along its contours to impart some energy into the pendulum. There are infinite variations of this, and it's quite interesting to study. The escapement here was developed by simply watching non-working anchors (we made) for places where it appears to jam up, stopping the escapement. When found, some CAD work and refabrication was done to reshape the anchor's surface to remove such jam points.
 
-In this escapement, all of the distances and sizes were slowly found as workable. That is, the bearing center-to-center distances, and the shapes of the escape wheel and anchor. The escapement is reduced down to only one possible adjustment (see below).
-
-
-
+In this escapement, all of the distances and sizes were slowly found to be workable. That is, the bearing center-to-center distances, and the shapes of the escape wheel and anchor are all tied together. The escapement is reduced down to only one possible adjustment (see below).
 
 
 
