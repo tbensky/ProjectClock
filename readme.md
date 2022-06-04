@@ -260,7 +260,7 @@ In sum, you'll want to adjust the angle between the pendulum and the apex point 
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Pics/anchor_adjust.jpg)
 
-Tips:
+## Tips
 
 * Mostly, we find if the apex point is straight up when the pendulum is vertical, then that should do it. 
 
