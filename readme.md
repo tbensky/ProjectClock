@@ -252,15 +252,28 @@ Lastly, wind the string around the axle so it'll turn the escape wheel clockwise
 
 # Starting your escapement
 
-Now, give the pendulum a small pull in one direction or the other. Hopefully the escapement will start ticking and tocking a few times. It'll likely stop after a few ticks and tocks though. 
+Now, give the pendulum a small pull in one direction or the other. Hopefully the escapement will start ticking and tocking a few times. Initially, it'll likely stop after a few ticks and tocks though. 
 
-As mentioned, there is only one adjustment, which is the angle the pendulum makes versus the angle of the anchor.
+As mentioned, since all part shapes and relative orientations are all set, there is only one adjustment: the angle the pendulum makes versus the angle of the anchor.
 
 In sum, you'll want to adjust the angle between the pendulum and the apex point on the anchor, shown here.
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Pics/anchor_adjust.jpg)
 
-Mostly, we find if the apex point is straight up when the pendulum is vertical, then that should do it. However, the overall goal is to watch the escapement as it tries run, reviewing the "escapement tutorial" above.  Watch carefully the drop and release of the anchor's pallets into the escapement wheel's teeth. The drop should be minimal for a given pallet, and the anchor's motion should be as symmetrical as possible.
+Tips:
+
+* Mostly, we find if the apex point is straight up when the pendulum is vertical, then that should do it. 
+
+* The overall goal is to watch the escapement as it tries run, reviewing the "escapement tutorial" above.  
+
+* Watch carefully the drop and release of the anchor's pallets into the escapement wheel's teeth. The drop should be minimal for a given pallet, and the anchor's motion should be as symmetrical as possible.
+
+* Listen to the escapement was well. The tick and tock sounds should be of similar volume. If one sounds heavier or louder than the other, then adjust the pendulum/anchor orientation.
+
+* You can always add weight to the drive weight, but you'll want to optimize this, and run your escapement with as minimal weight as possible.
+
+
+
 
 
 
