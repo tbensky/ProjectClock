@@ -279,7 +279,30 @@ In sum, you'll want to adjust the angle between the pendulum and the apex point 
 
 * If you build this escapement, send a pull request in this document, with a link to a Youtube video of your escapement. We'd love to see it and share it!
 
-* The author got interested in making clocks in the context of the history of navigational technology.  He's written all about time and clocks in Part II of [this book]().
+* The author got interested in making clocks in the context of the history of navigational technology.  He's written all about time and clocks in Part II of [this book](https://www.amazon.com/Longitude-Time-Navigation-Tom-Bensky-ebook/dp/B00HKMCE0A/).
+
+* This escapement has been written up [here](https://github.com/tbensky/ProjectClock/blob/main/Paper/BHJ_June2019.pdf).
+
+## Other's builds
+
+* Brian T. said:
+
+> Thanks so much for posting your plans and detailed
+instructions for your escapement.I built my escapement following your
+instructions. I used a small bandsaw to cut the wheel and made 4 of
+them. I used a 1 once knob I had laying around for the weight. Only 1 of
+my escapement wheels ran without skipping or locking but I consider that
+pretty good. My escapement ran for about 3 minutes and 45 seconds with a
+fall of about 3 feet. I'm thinking of making some more wheels and a
+sliding bob for the pendulum along with a 3-fall pulley system to do
+some experimenting with getting my escapement to run longer. I have
+found lots of interesting stuff on-line about making escapements but I
+found yours most helpful in getting one actually built. [Here’s a video
+of his version](https://www.dropbox.com/s/bihw26psfokd77d/clock%20escapement%202015-08-30.mp4?dl=0).
+
+* uprc2005 said:
+> hi, we tried to replicate your nice escapement design, thanks for the inspiration. [Watch it here](https://youtu.be/gZWi7g5TwoY).
+
 
 
 
