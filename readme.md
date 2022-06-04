@@ -185,12 +185,24 @@ Here they are in close proximity.
 
 ![esccapement](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape01.jpg)
 
-Too far apart for any working escapement, or the escapement would have to be adjusted for a very large pendulum swing angle to get the anchor's pallets to engage with the escape wheel.
+But this is too far apart for any working escapement, or you'd have to have a very large pendulum swing angle to get the anchor's pallets to engage with the escape wheel.
 
 Let's lower the anchor some like this
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape02.jpg)
 
+Now, imagine the anchor oscillatings as driven by the pendulum, like this
+
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape03.jpg)
+
+See the contact? This stops the escape wheel from spinning.
+
+Then back again.
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape04.jpg)
+
+Here there is no contact and the escape wheel is free to spin.
 
 
 
