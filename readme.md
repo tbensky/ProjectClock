@@ -252,8 +252,14 @@ Lastly, wind the string around the axle so it'll turn the escape wheel clockwise
 
 # Starting your escapement
 
-Now, give the pendulum a small pull in one direction or the other. Hopefully it'll start ticking and tocking a few times. It'll likely stop initially though. 
+Now, give the pendulum a small pull in one direction or the other. Hopefully the escapement will start ticking and tocking a few times. It'll likely stop after a few ticks and tocks though. 
 
 As mentioned, there is only one adjustment, which is the angle the pendulum makes versus the angle of the anchor.
+
+In sum, you'll want to adjust the angle between the pendulum and the apex point on the anchor, shown here.
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Pics/adjust_anchor.jpg)
+
+
 
 
