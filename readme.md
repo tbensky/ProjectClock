@@ -181,9 +181,9 @@ of both the anchor and escape wheel are important as well.
 
 (Remember as you look through these figures that the escape wheel will always be pulled clockwise due to the drive weight, and the anchor will always oscillate back and forth.)
 
-This animation from [here]() is very helpful and instructive
+This animation from [here](https://en.wikipedia.org/wiki/Escapement) is very helpful and instructive
 
-![esccapement](https://en.wikipedia.org/wiki/Escapement#/media/File:Anchor_escapement_animation_217x328px.gif)
+![esccapement](https://upload.wikimedia.org/wikipedia/commons/2/29/Anchor_escapement_animation_217x328px.gif)
 
 Here they are in close proximity.
 
