@@ -282,6 +282,8 @@ In sum, you'll want to adjust the angle between the pendulum and the apex point 
 
 * This escapement has been written up [here](https://github.com/tbensky/ProjectClock/blob/main/Paper/BHJ_June2019.pdf).
 
+* [This video](https://www.youtube.com/watch?v=B8Y146v8HxE) and the series that follows is simply incredible.
+
 # Other's builds
 
 If you build this escapement, send a pull request in this document, with a link to a Youtube video of your escapement. We'd love to see it and share it!
