@@ -215,8 +215,10 @@ pendulum will be given a knudge with each contact, to keep it swining (or else t
 Here, by trial and error, with adjusting surfaces to $\approx 1$ mm, you can see how the escape wheel tooth slides off of the anchor, in a way that gives a little kick
 to the pendulum.
 
-
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape06.jpg)
+
+When the left pallet of the anchor hits the escape wheel, it's a dead stop, with very little energy transfer back to the pendulum.  The right pallet however, after it stops the crown wheel, allows the tooth to slide off of it, along its contours to impart some energy into the pendulum. There are infinite variations of this, and it's quite interesting to study. The escapement here was developed by simply watching non-working anchors for places where it appears to be jamming up, stopping the escapement. When found, some CAD work was done to reshape the anchor's surface to remove such jam points.
+
 
 
 
