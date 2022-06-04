@@ -219,12 +219,34 @@ to the pendulum.
 
 When the left pallet of the anchor hits the escape wheel, it's a dead stop, with very little energy transfer back to the pendulum.  The right pallet however, after it stops the crown wheel, allows the tooth to slide off of it, along its contours to impart some energy into the pendulum. There are infinite variations of this, and it's quite interesting to study. The escapement here was developed by simply watching non-working anchors for places where it appears to be jamming up, stopping the escapement. When found, some CAD work was done to reshape the anchor's surface to remove such jam points.
 
+In this escapement, all of the distances and sizes were slowly found as workable. That is, the bearing center-to-center distances, and the shapes of the escape wheel and anchor. The escapement is reduced down to only one possible adjustment (see below).
+
+
+
 
 
 
 
 # Installing the pendulum and drive weight
 
+You are now ready to install the pendulum and drive weight.
+
+First the pendulum, which just slides and clamps onto the axle of the anchor. Get it snug for now, but do not tighten the clamp screw.
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Pics/pend_on.jpg)
+
+Next, tie some string through the hole on the end of the escape wheel's axle.
+
+
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Pics/tie_string.jpg)
+
+By whatever means, also attach your drive weight (at least 200g or 0.5 lbs) to the free end of the string.
+
+
+Lastly, wind the string around the axle so it'll turn the escape wheel clockwise, as shown here.
+
+![](https://github.com/tbensky/ProjectClock/blob/main/Pics/wind_string.jpg)
 
 
 
