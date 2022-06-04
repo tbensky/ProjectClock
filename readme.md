@@ -185,7 +185,9 @@ This animation from [here](https://en.wikipedia.org/wiki/Escapement) is very hel
 
 ![esccapement](https://upload.wikimedia.org/wikipedia/commons/2/29/Anchor_escapement_animation_217x328px.gif)
 
-Here they are in close proximity.
+Watch it for a while and see how the anchor and escape wheel teeth interact. We need to reproduce some of this here.
+
+Here are our anchor and escape wheel in close proximity.
 
 ![esccapement](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape01.jpg)
 
