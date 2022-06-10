@@ -261,13 +261,13 @@ In sum, you'll want to adjust the angle between the pendulum and the apex point 
 
 ## Tips
 
-* Mostly, we find if the apex point is straight up when the pendulum is vertical, then that should do it. 
+* We find if the apex point is straight up when the pendulum is vertical, then the escapement should run.
 
-* The overall goal is to watch the escapement as it tries run, reviewing the "escapement tutorial" above.  
+* If the escapement keeps stopping, watch it as it tries run, reviewing the "escapement tutorial" above.  
 
-* Watch carefully the drop and release of the anchor's pallets into the escapement wheel's teeth. The drop should be minimal for a given pallet, and the anchor's motion should be as symmetrical as possible.
+* In particular, watch the drops and releases of the anchor's pallets, into and out of the escapement wheel's teeth. The drop should be minimal for a given pallet, and the anchor's motion should be as symmetrical as possible.
 
-* Listen to the escapement was well. The tick and tock sounds should be of similar volume. If one sounds heavier or louder than the other, then adjust the pendulum/anchor orientation.
+* Listen to the escapement. The tick and tock sounds should be of similar volume. If one sounds heavier or louder than the other, then adjust the pendulum/anchor orientation.
 
 * You can always add weight to the drive weight, but you'll want to optimize this, and run your escapement with as minimal weight as possible.
 
@@ -285,7 +285,7 @@ In sum, you'll want to adjust the angle between the pendulum and the apex point 
 
 # Other's builds
 
-If you build this escapement, send a pull request in this document, with a link to a Youtube video of your escapement. We'd love to see it and share it!
+If you build this escapement, send a pull request in this document, with a link to a Youtube video of your escapement. We'd love to see it and share it here!
 
 * Brian T. said:
 
