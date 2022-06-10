@@ -16,7 +16,7 @@ The escapement can be constructed using the parts shown here.
 
 2. Some weight to drive the escapement. This escapement runs on about 200 g (0.5 lbs) of weight (minimum). Shown is a piece of brass, but anything can be used.
 
-3. Wooden parts (see Frame section below).
+3. Parts cut from some solid material (wood, plastic, composite, etc.); see Frame section below.
 
 4. #10 screw with washer and wing nut.
 
@@ -24,9 +24,9 @@ The escapement can be constructed using the parts shown here.
 
 6. 4 fidget spinner bearings.  Outer diameter is 22 mm, inner diameter (of hole) is 8 mm, and thickness is 7 mm. These are very common bearings and sizes. (See Amazon and eBay.)
 
-7. Two 5/16" dia. (7.9 mm) wooden dowels cut to 4" long. The dowels should be able to slide into the (8 mm) holes on the bearings.
+7. Two 5/16" (7.9 mm) (dia.) wooden dowels cut to 4" long. The dowels should be able to slide into the (8 mm) holes on the bearings.
 
-8.  3D printed escape wheel and anchor (see below).
+8. 3D printed escape wheel and anchor (see below).
 
 9. 50 g (0.1 lb) weight to be attached to the swinging end of the pendulum. This helps it keep swinging. Can be anything as long as it has a bit of mass.
 
