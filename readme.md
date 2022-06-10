@@ -37,15 +37,15 @@ The escapement can be constructed using the parts shown here.
 
 ## Frame
 
-To start, you'll have to CNC four parts out of some solid material like wood. (Manual cutting is possible though.) Any machinable wood, plastic or composite will work too (like MDF, Delrin, acrylic, etc). The only condition is that your stock is a minimum of 0.28" (7 mm) in thickness.  We used wood sourced from planks used for shelving (from our local hardware store) that are about 0.8" thick. The material serves as the escapement frame, holding everything togetgher. 
+To start, you'll have to CNC four parts out of some solid material like wood (manual cutting is possible). Any machinable wood, plastic or composite will work too (like MDF, Delrin, acrylic, etc). The only condition is that your stock is a minimum of 0.28" (7 mm) in thickness.  We used pine (wood) planks used for shelving (from our local hardware store) that are about 0.8" thick. The material serves as the escapement frame, holding everything togetgher. 
 
 The CAD (.DWG file) is in the CAD folder, and looks like this
 
 ![CAD file](https://github.com/tbensky/ProjectClock/blob/main/Pics/cad_parts.png)
 
-Parts 1 and 2 are the sides of the escapement frame. Part 3 is the base of the frame, and Part 2 is the top of the frame.  The circles pointed to by the red arrows are to be CNCed as "pockets cuts" to 0.2730" (7 mm) deep. The circles with the blue arrows are to be cut through.  The smaller (outer) circles on Parts 3 and 4 are also 0.1" deep pocket cuts, and serve as countersinks for #6 screw heads. The inner circles on Parts 3 and 4 are to be cut through.
+Parts 1 and 2 are the sides of the escapement frame. Part 3 is the base of the frame, and Part 2 is the top of the frame.  The circles pointed to by the red arrows are to be CNCed as "pockets cuts" to 0.2730" (7 mm) deep. The circles with the blue arrows are to be cut through.  The smaller (outer) circles on Parts 3 and 4 are also 0.1" deep pocket cuts, and serve as countersinks for #6 screw heads. The inner circles on Parts 3 and 4 are to be cut through.  The large circles at the center of Parts 3 and 4 are pocket cuts to about 1/2 the depth of your material. These are not critial to the escapement; they are meant to countersink a clamping bolt.  The inner center circles on these pieces are to be cut through.
 
-We get good results using two cutting tools.  All pockets cuts on Parts 1 and 2, and the countersinks and through-holes on Paers 3 and 4 are first cut with a 1/8" end mill. Some precision is needed on the pocket cuts to hold the bearings snugly with just friction (and the 1/8" cutting tool seems to deliver on this). Everything else can be done with a 1/4" end mill. Use tabs on all parts. 
+We get good results using two cutting tools.  All pockets cuts on Parts 1, 2, 3 and 4 and the countersinks and through-holes on Parts 3 and 4 are first cut with a 1/8" end mill. Some precision is needed on the pocket cuts to hold the bearings snugly with just friction (and the 1/8" cutting tool seems to deliver on this). Everything else can be done with a 1/4" end mill. Use tabs on all parts. 
 
 Our CNC simulation looks like this
 
@@ -55,7 +55,7 @@ We used a Shapeoko CNC from Carbide3D. For efficient material use, we used a 12"
 
 ### No CNC?
 
-It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" apart center-to-center. Kind of to within 0.01" (escapement are finicky).  The bearings are 22 mm in diameter; holes to hold them can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
+It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" apart center-to-center. Kind of to within a tolerance of 0.01" (escapement are finicky).  The bearings are 22 mm in diameter; holes to hold them can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
 
 
 ### Frame assembly
@@ -94,7 +94,7 @@ If you trace the pattern onto a 1/4" wooden plank, you can try to cut out the es
 
 ### Mounting the escape wheel and anchor
 
-The escape wheel and anchor are to be mounted onto the 7/16" x 4" wooden dowels.  As you can tell, the wheel and anchor are keyed, so you'll have to sand down a flat section on the dowels to allow them to fit into the holes on either.  Sand carefully, as this should be a very snug fit. We used Gorilla Glue 2-part epoxy to fasten the two.
+The escape wheel and anchor are to be mounted onto the 7/16" x 4" wooden dowels.  As you can tell, the wheel and anchor are keyed, so you'll have to sand down a flat section on the dowels to allow them to fit into the holes on either.  Sand carefully, as this should be a very snug fit. We used Gorilla Glue two-part epoxy to fasten the two.
 
 Important: Do not center the escape wheel or anchor on each's dowel. Place each about 2.5" from either end as shown here. The asymmetry is so you can have the pendulum swing on one side of the escapement, and the weight fall on the other.
 
@@ -145,7 +145,8 @@ and
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/screw_weight.jpg)
 
-A small stack of washers has also worked for this. The mass at the end of the rod gives the swinging pendulum some good angular momentum, which helps to keep the escapement running. (${\vec L_{tot}=$constant.)
+A small stack of washers has also worked for this. The mass at the end of the rod gives the swinging pendulum some good angular momentum, which helps to keep the escapement running. 
+
 
 # Assembly
 
@@ -171,7 +172,7 @@ Put the nuts onto the #6 screws, to tighten the base to the sides of the escapem
 
 # Quick escapement tutorial
 
-You're about ready to install the pendulum and drive weight and get your escapement running. Before that, let's take a quick look at how escapements are suppose to work.
+You're about ready to install the pendulum and drive weight and get your escapement running. Before that, let's take a quick look at how escapements are supposed to work.
 
 First, the anchor and escape wheel need to be able to come into contact with one another. Further, the amount of contact they have and when they contact are somewhat critical. The shape
 of both the anchor and escape wheel are important as well.
