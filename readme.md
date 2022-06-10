@@ -14,9 +14,9 @@ The escapement can be constructed using the parts shown here.
 
 1. Some string used for the drive weight.
 
-2. Some weight to drive the escapement. This escapement can run on about 200 g (0.5 lbs) of weight. Shown is a piece of brass, but anything can be used, as long as it's about 200 g (0.5 lbs) or so.
+2. Some weight to drive the escapement. This escapement runs on about 200 g (0.5 lbs) of weight (minimum). Shown is a piece of brass, but anything can be used.
 
-3.  Wooden parts (see Frame section below).
+3. Wooden parts (see Frame section below).
 
 4. #10 screw with washer and wing nut.
 
@@ -37,28 +37,25 @@ The escapement can be constructed using the parts shown here.
 
 ## Frame
 
-To start, you'll have to CNC four parts out of wood.  We used wood planks that are about 0.8" thick, commonly used for shelving from our local hardware store. They come in 12' or 8' long planks, that are 12", 8" or 6" wide. Again, the thickness is about 0.8".  We've also used MDF and smoother cuts of wood (the shelving planks can be pretty rough, but still work). The wood has to hold the bearings, which are 7 mm (0.25") deep, so the wood has to be at least this thick.
+To start, you'll have to CNC four parts out of some solid material like wood. (Manual cutting is possible though.) Any machinable wood, plastic or composite will work too (like MDF, Delrin, acrylic, etc). The only condition is that your stock is a minimum of 0.28" (7 mm) in thickness.  We used wood sourced from planks used for shelving (from our local hardware store) that are about 0.8" thick. The material serves as the escapement frame, holding everything togetgher. 
 
 The CAD (.DWG file) is in the CAD folder, and looks like this
 
 ![CAD file](https://github.com/tbensky/ProjectClock/blob/main/Pics/cad_parts.png)
 
-Parts 1 and 2 are the sides of the escapement frame. Part 3 is the base of the frame, and Part 2 is the top of the frame.  The circles pointed to by the red arrows are to be CNCed as "pockets cuts" to 0.2730" (7 mm) deep. The
-circles with the blue arrows are to be cut through.  The smaller (outer) circles on Parts 3 and 4 are countersinks for #6 screw heads and are cut 0.1" deep. The inner circles on Parts 3 and 4 are to be cut through.
+Parts 1 and 2 are the sides of the escapement frame. Part 3 is the base of the frame, and Part 2 is the top of the frame.  The circles pointed to by the red arrows are to be CNCed as "pockets cuts" to 0.2730" (7 mm) deep. The circles with the blue arrows are to be cut through.  The smaller (outer) circles on Parts 3 and 4 are also 0.1" deep pocket cuts, and serve as countersinks for #6 screw heads. The inner circles on Parts 3 and 4 are to be cut through.
 
-We get good results using two tools.  All pockets cuts on Parts 1 and 2, and the countersinks and through-holes on Paers 3 and 4 are first cut with a 1/8" end mill. Some precision is needed on the pocket cuts to hold
-the bearings snugly with just friction (and this smaller cutting tool seems to deliver on this). Everything else can be done with a 1/4" end mill. Use tabs on all parts. 
+We get good results using two cutting tools.  All pockets cuts on Parts 1 and 2, and the countersinks and through-holes on Paers 3 and 4 are first cut with a 1/8" end mill. Some precision is needed on the pocket cuts to hold the bearings snugly with just friction (and the 1/8" cutting tool seems to deliver on this). Everything else can be done with a 1/4" end mill. Use tabs on all parts. 
 
 Our CNC simulation looks like this
 
 ![CNC simulation](https://github.com/tbensky/ProjectClock/blob/main/Pics/cnc_sim.jpg)
 
-We used a Shapeoko CNC from Carbide3D. For efficient wood use, we used a 12"x5.5"x0.8" plank. Set the origin to the upper-left and clamps along the long edges of the board.  
+We used a Shapeoko CNC from Carbide3D. For efficient material use, we used a 12"x5.5"x0.8" plank. Set the origin to the upper-left and clamps along the long edges of the board.  
 
 ### No CNC?
 
-It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" apart center-to-center.  The bearings are 22 mm in diameter; holes to hold them
-can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
+It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" apart center-to-center. Kind of to within 0.01" (escapement are finicky).  The bearings are 22 mm in diameter; holes to hold them can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
 
 
 ### Frame assembly
@@ -67,7 +64,7 @@ Once the frame pieces are ready, clamp them together like this
 
 ![frame clamp](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_frame.jpg)
 
-and be sure everything is squared up.  The pocket cuts can face either inward or outward.
+and be sure everything is squared up.  You are just clamping them here; do not apply any glue.  The pocket cuts that hold the bearings can face either inward or outward.
 
 When secure, drill up through the four holes in the base, from the bottom of the base, up into both of the sides, like this
 
@@ -83,7 +80,7 @@ The escape wheel (with 24 teeth) and the anchor look like this (on the way to a 
 
 ![escape_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape_and_anchor.png)
 
-We 3d printed these with PLA (STL files for them are in the STL folder), but they can be CNCed as well (see .dwg file in the Cad folder).   If CNCed, they should be cut on 1/4" thick wood (or acrylic) with a 1/8" endmill.
+We 3d printed these with PLA (STL files for them are in the STL folder), but they can be CNCed as well (see .dwg file in the Cad folder).   If CNCed, they should be cut on 1/4" thick stock. We've used wood, acrylic and Delrin. If anyone cuts them from Aluminum or Brass (or any metal), let us know. We recommend a 1/8" endmill.
 
 Here's our 3D printed result.
 
@@ -92,7 +89,7 @@ Here's our 3D printed result.
 
 ### No CNC or 3D printer?
 
-If you trace the pattern onto a 1/4" wooden plank, you can try to cut out the escape wheel and anchor with a scroll saw, but it is difficult to get working parts. Escapements are finicky and the 3D printed parts here are good to 0.1 mm or so. With a scroll saw, you'll get the parts, but the escapement may not work.  Mounting holes for each can be made with a 7/16" drill bit. 
+If you trace the pattern onto a 1/4" wooden plank, you can try to cut out the escape wheel and anchor with a scroll saw, but it is difficult to get parts that will work. Escapements are finicky and the 3D printed parts here are good to 0.1 mm or so. With a scroll saw, you'll get the parts, but the escapement may not work no matter how hard you try.  Mounting holes for each can be made with a 7/16" drill bit. 
 
 
 ### Mounting the escape wheel and anchor
@@ -148,7 +145,7 @@ and
 
 ![escape_and_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/Pendulum/screw_weight.jpg)
 
-A small stack of washers has also worked for this.
+A small stack of washers has also worked for this. The mass at the end of the rod gives the swinging pendulum some good angular momentum, which helps to keep the escapement running. (${\vec L_{tot}=$constant.)
 
 # Assembly
 
@@ -179,7 +176,6 @@ You're about ready to install the pendulum and drive weight and get your escapem
 First, the anchor and escape wheel need to be able to come into contact with one another. Further, the amount of contact they have and when they contact are somewhat critical. The shape
 of both the anchor and escape wheel are important as well.
 
-(Remember as you look through these figures that the escape wheel will always be pulled clockwise due to the drive weight, and the anchor will always oscillate back and forth.)
 
 This animation from [here](https://en.wikipedia.org/wiki/Escapement) is very helpful and instructive
 
@@ -187,11 +183,11 @@ This animation from [here](https://en.wikipedia.org/wiki/Escapement) is very hel
 
 Watch it for a while and see how the anchor and escape wheel teeth interact. We need to reproduce some of this here.
 
-Here are our anchor and escape wheel in close proximity.
+Here are our anchor and escape wheel in close proximity. (As you look through these figures, note that the escape wheel will always rotate clockwise due to the drive weight, and the anchor will always oscillate back and forth.)
 
-![esccapement](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape01.jpg)
+![escapement](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape01.jpg)
 
-But this is too far apart for any working escapement, or you'd have to have a very large pendulum swing angle to get the anchor's pallets to engage with the escape wheel.
+But the escape wheel to anchor distance is too far apart for any working escapement. You'd have to have a very large pendulum swing angle to get the anchor's pallets to engage with the escape wheel.
 
 Let's lower the anchor some like this
 
@@ -214,7 +210,7 @@ Here there is no contact and the escape wheel is free to spin. It keeps going un
 
 This will stop the escape wheel again and make the "tock" sound.
 
-It is difficult designing an escapement.  It is not enough to simply periodically stop the escape wheel. The releases (after the contact) have to be shaped so that the
+It is difficult to design an escapement.  It is not enough to simply periodically stop the escape wheel. The releases (after the contact) have to be shaped so that the
 pendulum will be given a knudge by the escape wheel with each release. This keeps the pendulum swining.
 
 Here, by trial and error, with adjusting surfaces to $\approx 1$ mm, you can see how the escape wheel tooth slides off of the anchor, in a way that gives a little kick
@@ -222,11 +218,11 @@ to the pendulum.
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape06.jpg)
 
-When the left pallet of the anchor hits the escape wheel, it's a dead stop, with very little energy transfer back to the pendulum.  The right pallet however, after it stops the crown wheel, allows the tooth to slide off of it, along its contours to impart some energy into the pendulum. There are infinite variations of this, and it's quite interesting to study. The escapement here was developed by simply watching non-working anchors (we made) for places where it appears to jam up, stopping the escapement. When found, some CAD work and refabrication was done to reshape the anchor's surface to remove such jam points.
+When the left pallet of the anchor hits the escape wheel, it's a dead stop, with very little energy transfer back to the pendulum.  The right pallet however, after it stops the crown wheel, allows the tooth to slide off of it, along its contours to impart some energy into the pendulum. There are infinite variations of this, and it's quite interesting to study. (If you ever make it to London, England, there are 100s of escapements to watch in local museums.)  
 
-In this escapement, all of the distances and sizes were slowly found to be workable. That is, the bearing center-to-center distances, and the shapes of the escape wheel and anchor are all tied together. The escapement is reduced down to only one possible adjustment (see below).
+The escapement here was developed by painstakingly watching non-working anchors (we made) for places where they jam up, stopping the escapement. When found, some CAD work and refabrication was done to reshape the anchor's surface to remove such jam points. The anchor design here is one that finally worked.
 
-
+In this escapement, all of the distances and sizes are workable. That is, the bearing center-to-center distances (the 2.36" above), and the shapes of the escape wheel and anchor are all tied together. If for example, the bearing to bearing distance is too large or small, the anchor may not engage the crown wheel properly. Thus, this escapement design is reduced down to only one possible adjustment (see below).
 
 
 # Installing the pendulum and drive weight
