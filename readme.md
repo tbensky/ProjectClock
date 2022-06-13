@@ -211,8 +211,7 @@ Here there is no contact and the escape wheel is free to spin (but it won't get 
 
 This will once again stop the escape wheel again and make the "tock" sound.
 
-It is difficult to design an escapement.  It is not enough to simply periodically stop the escape wheel. The releases (after the contact) have to be shaped so that the
-pendulum will be given a knudge by the escape wheel with each release. This keeps the pendulum swining.
+It is difficult to design an escapement.  It is not enough to simply periodically stop the escape wheel. The pallets have to be shaped so that the releases (after the contact) can give the pendulum a knudge by the escape wheel with each release. This puts a bit of energy into the pendulum, to keep it swinging.
 
 Here, by trial and error, with adjusting surfaces to $\approx 1$ mm, you can see how the escape wheel tooth slides off of the anchor, in a way that gives a little kick
 to the pendulum.
