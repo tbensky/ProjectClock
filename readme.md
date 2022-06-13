@@ -55,12 +55,12 @@ We used a Shapeoko CNC from Carbide3D. For efficient material use, we used a 12"
 
 ### No CNC?
 
-It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" apart center-to-center. Kind of to within a tolerance of 0.01" (escapement are finicky).  The bearings are 22 mm in diameter; holes to hold them can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
+It's possible to make the frame without a CNC machine.  The only real need is to hold two pairs of bearings 2.36" apart center-to-center (+/- 0.01", escapements are finicky).  The bearings are 22 mm in diameter; holes to hold them can be made with an appropriately sized Forestner bit. Some sanding or firming up may be needed.
 
 
 ### Frame assembly
 
-Once the frame pieces are ready, clamp them together like this
+Once the frame pieces are ready, clamp (but do not glue) them together like this
 
 ![frame clamp](https://github.com/tbensky/ProjectClock/blob/main/Pics/clamp_frame.jpg)
 
@@ -80,7 +80,7 @@ The escape wheel (with 24 teeth) and the anchor look like this (on the way to a 
 
 ![escape_anchor](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape_and_anchor.png)
 
-We 3d printed these with PLA (STL files for them are in the STL folder), but they can be CNCed as well (see .dwg file in the Cad folder).   If CNCed, they should be cut on 1/4" thick stock. We've used wood, acrylic and Delrin. If anyone cuts them from Aluminum or Brass (or any metal), let us know. We recommend a 1/8" endmill.
+We 3d printed these with PLA (STL files for them are in the STL folder), but they can be CNCed as well (see .dwg file in the Cad folder).   If CNCed, they should be cut on 1/4" thick stock. We've used wood, acrylic and Delrin. If anyone cuts them from Aluminum or Brass (or any metal), let us know (we'd love to see it). We recommend a 1/8" endmill.
 
 Here's our 3D printed result.
 
@@ -182,9 +182,9 @@ This animation from [here](https://en.wikipedia.org/wiki/Escapement) is very hel
 
 ![esccapement](https://upload.wikimedia.org/wikipedia/commons/2/29/Anchor_escapement_animation_217x328px.gif)
 
-Watch it for a while and see how the anchor and escape wheel teeth interact. We need to reproduce some of this here.
+Watch it for a while and see how the anchor and escape wheel teeth interact. We need to reproduce some of this action here.
 
-Here are our anchor and escape wheel in close proximity. (As you look through these figures, note that the escape wheel will always rotate clockwise due to the drive weight, and the anchor will always oscillate back and forth.)
+In this figure, our anchor and escape wheel in close proximity. (As you look through these figures, note that for this escapement, the escape wheel always rotates clockwise due to the drive weight, and the anchor will always oscillate back and forth.)
 
 ![escapement](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape01.jpg)
 
@@ -194,7 +194,7 @@ Let's lower the anchor some like this
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape02.jpg)
 
-Now, imagine the anchor oscillatings as driven by the pendulum, like this
+Now, imagine the anchor oscillating (as driven by the pendulum), like this
 
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape03.jpg)
@@ -205,7 +205,7 @@ Then back again.
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape04.jpg)
 
-Here there is no contact and the escape wheel is free to spin. It keeps going until contact is made again like this:
+Here there is no contact and the escape wheel is free to spin (but it won't get very far). It keeps going until contact is made again like this:
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape05.jpg)
 
