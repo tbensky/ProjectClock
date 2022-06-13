@@ -1,6 +1,6 @@
 # Mechanical Clock Escapement
 
-The following are step by step directions to cutting and building a working, gravity-driven mechanical clock escapement.
+The following directions illustrate a step by step plan to building a working, gravity-driven mechanical clock escapement.
 
 ![Clock Escapement](https://github.com/tbensky/ProjectClock/blob/main/Pics/escape.gif)
 
