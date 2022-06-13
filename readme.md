@@ -205,11 +205,11 @@ Then back again.
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape04.jpg)
 
-Here there is no contact and the escape wheel is free to spin (but it won't get very far). It keeps going until contact is made again like this:
+Here there is no contact and the escape wheel is free to spin (but it won't get very far) because very soon, contact is made again like this:
 
 ![](https://github.com/tbensky/ProjectClock/blob/main/Escape/escape05.jpg)
 
-This will stop the escape wheel again and make the "tock" sound.
+This will once again stop the escape wheel again and make the "tock" sound.
 
 It is difficult to design an escapement.  It is not enough to simply periodically stop the escape wheel. The releases (after the contact) have to be shaped so that the
 pendulum will be given a knudge by the escape wheel with each release. This keeps the pendulum swining.
